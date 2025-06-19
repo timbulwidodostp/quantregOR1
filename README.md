@@ -1,6 +1,8 @@
 # quantregOR1
 Bayesian quantile regression in the OR1 model Use quantregOR1 (bqror) With (In) R Software
 
+https://www.youtube.com/watch?v=dsFxDD-jFGs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
